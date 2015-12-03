@@ -1,0 +1,203 @@
+round	home	away	date
+1	West Coast Eagles	Brisbane Lions	27/03/2016 8:40
+1	Gold Coast Suns	Essendon Bombers	26/03/2016 5:35
+1	Port Adelaide Power	Saint Kilda Saints	27/03/2016 4:20
+1	Western Bulldogs	Fremantle Dockers	27/03/2016 2:10
+1	Sydney Swans	Collingwood Magpies	26/03/2016 8:25
+1	Richmond Tigers	Carlton Blues	24/03/2016 8:20
+1	Melbourne Demons	Greater Western Sydney Giants	26/03/2016 2:40
+1	North Melbourne Kangaroos	Adelaide Crows	26/03/2016 8:25
+1	Geelong Cats	Hawthorn Hawks	28/03/2016 4:20
+2	Fremantle Dockers	Gold Coast Suns	2/04/2016 8:40
+2	Brisbane Lions	North Melbourne Kangaroos	2/04/2016 5:35
+2	Adelaide Crows	Port Adelaide Power	2/04/2016 2:45
+2	Saint Kilda Saints	Western Bulldogs	2/04/2016 8:25
+2	Hawthorn Hawks	West Coast Eagles	3/04/2016 5:20
+2	Greater Western Sydney Giants	Geelong Cats	3/04/2016 3:10
+2	Essendon Bombers	Melbourne Demons	2/04/2016 3:10
+2	Collingwood Magpies	Richmond Tigers	1/04/2016 8:50
+2	Carlton Blues	Sydney Swans	3/04/2016 6:40
+3	Geelong Cats	Brisbane Lions	10/04/2016 6:40
+3	North Melbourne Kangaroos	Melbourne Demons	10/04/2016 3:10
+3	West Coast Eagles	Fremantle Dockers	9/04/2016 9:40
+3	Gold Coast Suns	Carlton Blues	9/04/2016 9:25
+3	Port Adelaide Power	Essendon Bombers	8/04/2016 9:50
+3	Western Bulldogs	Hawthorn Hawks	10/04/2016 5:20
+3	Sydney Swans	Greater Western Sydney Giants	9/04/2016 6:35
+3	Saint Kilda Saints	Collingwood Magpies	9/04/2016 3:45
+3	Richmond Tigers	Adelaide Crows	9/04/2016 4:10
+4	Hawthorn Hawks	Saint Kilda Saints	16/04/2016 4:10
+4	West Coast Eagles	Richmond Tigers	15/04/2016 10:10
+4	Brisbane Lions	Gold Coast Suns	16/04/2016 6:35
+4	Adelaide Crows	Sydney Swans	16/04/2016 9:40
+4	North Melbourne Kangaroos	Fremantle Dockers	17/04/2016 6:40
+4	Greater Western Sydney Giants	Port Adelaide Power	17/04/2016 3:10
+4	Essendon Bombers	Geelong Cats	16/04/2016 3:45
+4	Collingwood Magpies	Melbourne Demons	17/04/2016 5:20
+4	Carlton Blues	Western Bulldogs	16/04/2016 9:25
+5	Fremantle Dockers	Carlton Blues	24/04/2016 6:10
+5	Gold Coast Suns	North Melbourne Kangaroos	23/04/2016 6:35
+5	Port Adelaide Power	Geelong Cats	23/04/2016 9:50
+5	Western Bulldogs	Brisbane Lions	23/04/2016 9:25
+5	Sydney Swans	West Coast Eagles	23/04/2016 3:40
+5	Saint Kilda Saints	Greater Western Sydney Giants	24/04/2016 3:10
+5	Melbourne Demons	Richmond Tigers	24/04/2016 9:10
+5	Hawthorn Hawks	Adelaide Crows	22/04/2016 9:50
+5	Collingwood Magpies	Essendon Bombers	25/04/2016 5:20
+6	West Coast Eagles	Collingwood Magpies	1/05/2016 6:40
+6	Brisbane Lions	Sydney Swans	1/05/2016 3:10
+6	Adelaide Crows	Fremantle Dockers	30/04/2016 4:10
+6	Richmond Tigers	Port Adelaide Power	30/04/2016 9:25
+6	Melbourne Demons	Saint Kilda Saints	30/04/2016 3:45
+6	North Melbourne Kangaroos	Western Bulldogs	29/04/2016 9:50
+6	Greater Western Sydney Giants	Hawthorn Hawks	30/04/2016 6:35
+6	Geelong Cats	Gold Coast Suns	30/04/2016 3:10
+6	Carlton Blues	Essendon Bombers	1/05/2016 5:20
+7	Fremantle Dockers	Greater Western Sydney Giants	7/05/2016 10:10
+7	Sydney Swans	Essendon Bombers	7/05/2016 6:35
+7	Gold Coast Suns	Melbourne Demons	7/05/2016 7:10
+7	Port Adelaide Power	Brisbane Lions	8/05/2016 6:40
+7	Western Bulldogs	Adelaide Crows	7/05/2016 9:40
+7	Saint Kilda Saints	North Melbourne Kangaroos	8/05/2016 5:20
+7	Richmond Tigers	Hawthorn Hawks	6/05/2016 9:50
+7	Geelong Cats	West Coast Eagles	7/05/2016 4:10
+7	Collingwood Magpies	Carlton Blues	7/05/2016 3:45
+8	Hawthorn Hawks	Fremantle Dockers	14/05/2016 4:10
+8	West Coast Eagles	Saint Kilda Saints	15/05/2016 6:40
+8	Brisbane Lions	Collingwood Magpies	14/05/2016 9:25
+8	Adelaide Crows	Geelong Cats	13/05/2016 9:50
+8	Richmond Tigers	Sydney Swans	14/05/2016 9:25
+8	Melbourne Demons	Western Bulldogs	15/05/2016 5:20
+8	Greater Western Sydney Giants	Gold Coast Suns	14/05/2016 6:35
+8	Essendon Bombers	North Melbourne Kangaroos	14/05/2016 3:45
+8	Carlton Blues	Port Adelaide Power	15/05/2016 3:10
+9	Port Adelaide Power	West Coast Eagles	21/05/2016 6:35
+9	Fremantle Dockers	Richmond Tigers	21/05/2016 9:40
+9	Gold Coast Suns	Adelaide Crows	21/05/2016 4:10
+9	Port Adelaide Power	West Coast Eagles	21/05/2016 6:35
+9	Saint Kilda Saints	Essendon Bombers	22/05/2016 6:40
+9	Melbourne Demons	Brisbane Lions	22/05/2016 3:10
+9	North Melbourne Kangaroos	Carlton Blues	21/05/2016 9:25
+9	Hawthorn Hawks	Sydney Swans	20/05/2016 9:50
+9	Greater Western Sydney Giants	Western Bulldogs	22/05/2016 5:20
+9	Collingwood Magpies	Geelong Cats	21/05/2016 3:45
+10	Adelaide Crows	Greater Western Sydney Giants	28/05/2016 9:40
+10	Sydney Swans	North Melbourne Kangaroos	27/05/2016 9:50
+10	West Coast Eagles	Gold Coast Suns	29/05/2016 6:40
+10	Brisbane Lions	Hawthorn Hawks	28/05/2016 3:45
+10	Melbourne Demons	Port Adelaide Power	28/05/2016 4:10
+10	Adelaide Crows	Greater Western Sydney Giants	28/05/2016 9:40
+10	Saint Kilda Saints	Fremantle Dockers	28/05/2016 6:35
+10	Essendon Bombers	Richmond Tigers	28/05/2016 9:25
+10	Collingwood Magpies	Western Bulldogs	29/05/2016 5:20
+10	Carlton Blues	Geelong Cats	29/05/2016 3:10
+11	Adelaide Crows	Saint Kilda Saints	5/06/2016 6:40
+11	North Melbourne Kangaroos	Richmond Tigers	3/06/2016 9:50
+11	Fremantle Dockers	Essendon Bombers	4/06/2016 9:40
+11	Gold Coast Suns	Sydney Swans	4/06/2016 9:25
+11	Adelaide Crows	Saint Kilda Saints	5/06/2016 6:40
+11	Western Bulldogs	West Coast Eagles	5/06/2016 5:20
+11	Hawthorn Hawks	Melbourne Demons	4/06/2016 3:45
+11	Geelong Cats	Greater Western Sydney Giants	4/06/2016 6:35
+11	Collingwood Magpies	Port Adelaide Power	5/06/2016 3:10
+11	Carlton Blues	Brisbane Lions	4/06/2016 4:10
+12	Port Adelaide Power	Western Bulldogs	11/06/2016 3:40
+12	West Coast Eagles	Adelaide Crows	11/06/2016 9:40
+12	Brisbane Lions	Fremantle Dockers	11/06/2016 6:35
+12	Port Adelaide Power	Western Bulldogs	11/06/2016 3:40
+12	Saint Kilda Saints	Carlton Blues	12/06/2016 3:10
+12	Richmond Tigers	Gold Coast Suns	12/06/2016 5:20
+12	Melbourne Demons	Collingwood Magpies	13/06/2016 5:20
+12	Greater Western Sydney Giants	Sydney Swans	12/06/2016 6:40
+12	Geelong Cats	North Melbourne Kangaroos	11/06/2016 9:25
+12	Essendon Bombers	Hawthorn Hawks	10/06/2016 9:50
+13	Fremantle Dockers	Port Adelaide Power	18/06/2016 6:35
+13	Brisbane Lions	West Coast Eagles	18/06/2016 3:40
+13	Western Bulldogs	Geelong Cats	18/06/2016 9:35
+13	Sydney Swans	Melbourne Demons	19/06/2016 3:10
+13	North Melbourne Kangaroos	Hawthorn Hawks	17/06/2016 9:50
+13	Essendon Bombers	Greater Western Sydney Giants	19/06/2016 6:40
+14	Adelaide Crows	North Melbourne Kangaroos	23/06/2016 9:50
+14	Hawthorn Hawks	Gold Coast Suns	26/06/2016 5:20
+14	Adelaide Crows	North Melbourne Kangaroos	23/06/2016 9:50
+14	Saint Kilda Saints	Geelong Cats	25/06/2016 9:25
+14	Richmond Tigers	Brisbane Lions	25/06/2016 3:40
+14	Greater Western Sydney Giants	Carlton Blues	25/06/2016 6:35
+14	Collingwood Magpies	Fremantle Dockers	24/06/2016 9:50
+15	Port Adelaide Power	Richmond Tigers	1/07/2016 9:50
+15	West Coast Eagles	Essendon Bombers	30/06/2016 10:10
+15	Gold Coast Suns	Saint Kilda Saints	2/07/2016 3:40
+15	Port Adelaide Power	Richmond Tigers	1/07/2016 9:50
+15	Sydney Swans	Western Bulldogs	2/07/2016 6:35
+15	Melbourne Demons	Adelaide Crows	3/07/2016 5:20
+15	Carlton Blues	Collingwood Magpies	2/07/2016 9:25
+16	Port Adelaide Power	Hawthorn Hawks	7/07/2016 9:50
+16	West Coast Eagles	North Melbourne Kangaroos	10/07/2016 5:20
+16	Gold Coast Suns	Brisbane Lions	9/07/2016 6:35
+16	Melbourne Demons	Fremantle Dockers	9/07/2016 9:40
+16	Port Adelaide Power	Hawthorn Hawks	7/07/2016 9:50
+16	Western Bulldogs	Richmond Tigers	9/07/2016 9:25
+16	Greater Western Sydney Giants	Collingwood Magpies	9/07/2016 3:40
+16	Geelong Cats	Sydney Swans	8/07/2016 9:50
+16	Essendon Bombers	Saint Kilda Saints	10/07/2016 6:40
+16	Carlton Blues	Adelaide Crows	10/07/2016 3:10
+17	Adelaide Crows	Collingwood Magpies	16/07/2016 9:40
+17	Fremantle Dockers	Geelong Cats	15/07/2016 10:10
+17	Western Bulldogs	Gold Coast Suns	16/07/2016 9:25
+17	Brisbane Lions	Greater Western Sydney Giants	17/07/2016 6:40
+17	Adelaide Crows	Collingwood Magpies	16/07/2016 9:40
+17	Sydney Swans	Hawthorn Hawks	14/07/2016 9:20
+17	Saint Kilda Saints	Melbourne Demons	17/07/2016 5:20
+17	Richmond Tigers	Essendon Bombers	16/07/2016 3:40
+17	North Melbourne Kangaroos	Port Adelaide Power	16/07/2016 6:35
+17	Carlton Blues	West Coast Eagles	17/07/2016 3:10
+18	Port Adelaide Power	Greater Western Sydney Giants	24/07/2016 6:40
+18	West Coast Eagles	Melbourne Demons	23/07/2016 6:35
+18	Gold Coast Suns	Fremantle Dockers	23/07/2016 4:10
+18	Port Adelaide Power	Greater Western Sydney Giants	24/07/2016 6:40
+18	Western Bulldogs	Saint Kilda Saints	23/07/2016 9:25
+18	Sydney Swans	Carlton Blues	23/07/2016 3:45
+18	Hawthorn Hawks	Richmond Tigers	24/07/2016 5:20
+18	Geelong Cats	Adelaide Crows	23/07/2016 9:25
+18	Essendon Bombers	Brisbane Lions	24/07/2016 3:10
+18	Collingwood Magpies	North Melbourne Kangaroos	22/07/2016 9:50
+19	Adelaide Crows	Essendon Bombers	31/07/2016 6:40
+19	Hawthorn Hawks	Carlton Blues	30/07/2016 4:10
+19	Fremantle Dockers	Sydney Swans	31/07/2016 5:20
+19	Brisbane Lions	Port Adelaide Power	30/07/2016 9:25
+19	Adelaide Crows	Essendon Bombers	31/07/2016 6:40
+19	Melbourne Demons	Gold Coast Suns	31/07/2016 3:10
+19	North Melbourne Kangaroos	Saint Kilda Saints	30/07/2016 9:25
+19	Greater Western Sydney Giants	Richmond Tigers	30/07/2016 3:45
+19	Geelong Cats	Western Bulldogs	29/07/2016 9:50
+19	Collingwood Magpies	West Coast Eagles	30/07/2016 3:10
+20	Adelaide Crows	Brisbane Lions	6/08/2016 9:40
+20	Fremantle Dockers	West Coast Eagles	7/08/2016 6:40
+20	Gold Coast Suns	Greater Western Sydney Giants	6/08/2016 6:35
+20	Adelaide Crows	Brisbane Lions	6/08/2016 9:40
+20	Western Bulldogs	North Melbourne Kangaroos	6/08/2016 9:25
+20	Sydney Swans	Port Adelaide Power	6/08/2016 3:45
+20	Richmond Tigers	Collingwood Magpies	5/08/2016 9:50
+20	Melbourne Demons	Hawthorn Hawks	6/08/2016 4:10
+20	Geelong Cats	Essendon Bombers	7/08/2016 5:20
+20	Carlton Blues	Saint Kilda Saints	7/08/2016 3:10
+21	Port Adelaide Power	Melbourne Demons	13/08/2016 9:40
+21	Fremantle Dockers	Adelaide Crows	14/08/2016 6:40
+21	Brisbane Lions	Carlton Blues	13/08/2016 5:45
+21	Port Adelaide Power	Melbourne Demons	13/08/2016 9:40
+21	Western Bulldogs	Collingwood Magpies	12/08/2016 9:50
+21	Saint Kilda Saints	Sydney Swans	13/08/2016 9:25
+21	Richmond Tigers	Geelong Cats	14/08/2016 5:20
+21	Hawthorn Hawks	North Melbourne Kangaroos	13/08/2016 4:10
+21	Greater Western Sydney Giants	West Coast Eagles	13/08/2016 6:35
+21	Essendon Bombers	Gold Coast Suns	14/08/2016 3:10
+22	Port Adelaide Power	Adelaide Crows	20/08/2016 9:40
+22	North Melbourne Kangaroos	Sydney Swans	20/08/2016 3:45
+22	West Coast Eagles	Hawthorn Hawks	19/08/2016 10:10
+22	Brisbane Lions	Geelong Cats	21/08/2016 7:20
+22	Port Adelaide Power	Adelaide Crows	20/08/2016 9:40
+22	Richmond Tigers	Saint Kilda Saints	20/08/2016 4:10
+22	Greater Western Sydney Giants	Fremantle Dockers	20/08/2016 6:35
+22	Essendon Bombers	Western Bulldogs	21/08/2016 6:40
+22	Collingwood Magpies	Gold Coast Suns	20/08/2016 9:25
+22	Carlton Blues	Melbourne Demons	21/08/2016 3:10
